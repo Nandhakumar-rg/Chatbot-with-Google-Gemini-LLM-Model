@@ -12,8 +12,11 @@ Add your API key into the .env file
 pip install -r requirements.txt
 
 3)Run the app using streamlit
+
 streamlit run Gemini_Pro_Vision.py  ##To run the pro vision model (Images).
+
 streamlit run Gemini_Pro.py  ##To run the Pro model (Text).
+
 streamlit run Gemini_QA.py ##To run the Q&A Model.
 
 ##You can use your any favourite IDE to run this project.
